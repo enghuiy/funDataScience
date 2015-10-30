@@ -1,2 +1,2 @@
 # funDataScience
-fun data science projectss that struck my interest
+fun data science projects that struck my interest
